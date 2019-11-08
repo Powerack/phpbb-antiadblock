@@ -1,5 +1,4 @@
 # phpbb-antiadblock
-Český překlad pluginu "Anti Adblock" ve verzi 1.2.0 pro fórum phpbb 3.2.4 a novější.
 Toto je můj vlastní český překlad pluginu "Anti Adblock" ve verzi 1.2.0 pro fórum phpbb 3.2.4 a novější.
 
 Překlad je použit například na stránce: http://forum.powerack.cz
